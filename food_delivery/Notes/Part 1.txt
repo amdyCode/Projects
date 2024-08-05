@@ -1,0 +1,9 @@
+1-/ Step by step 4 complex UI screens
+2-/ Animated PageView
+3-/ Learn about app architecture
+4-/ Api Client, Repository and Controllers
+6-/ Loading Load dependancy
+7-/ Build models, classes, working with JSON, Map and List
+8-/ Build product controller, cart controller and data processing
+9-/ Responsive lay out
+10-/ Get better at Dart Programming Language

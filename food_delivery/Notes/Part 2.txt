@@ -1,0 +1,10 @@
+1-/ Step by step 8 complex UI screens (front end zero to hero)
+2-/ Build models, classes, working with JSON, Map and List for Google Map and User Model
+3-/ Build location, user, auth controllers and data processing
+4-/ Pick user location based on user tap
+5-/ Keep tracking of users orders
+6-/ Show users firebase notification
+7-/ Paypal payment set up
+8-/ Cover backend in detail step by step
+9-/ Zone based user location and service
+10-/ Master Dart Programming Language

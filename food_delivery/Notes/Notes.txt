@@ -1,0 +1,48 @@
+Architecture
+1-/Page d’accueil (affiche le produit popuplar et les produits recommandés)
+
+2-/Connectez-vous et inscrivez-vous (inscrivez-vous avec un mobile avec un code de vérification)
+
+3-/Panier d’achat (un vrai panier d’achat avec ajout et suppression d’articles à la volée)
+
+4-/Page d’historique du panier local (à l’aide d’un stockage local)
+
+5-/Page d’historique du panier du serveur (synchronisation avec la base de données)
+
+6-/Page de profil (informations personnelles)
+
+7-/Page d’aliments populaires (afficher les aliments populaires, ajouter ou supprimer des articles du panier)
+
+8-/Page des aliments recommandés (voir les aliments recommandés, ajouter ou retirer du panier)
+
+9-/Commander plus de fonction (nouvelle fonctionnalité, elle vous aide à commander)
+
+10-/Accédez à la page de connexion (authentification de la page de connexion avant de passer commande)
+
+11-/Page d’adresse (adresse avec authentification avant de passer commande)
+
+12-/Page Google Map (pour le lieu de prise en charge et l’enregistrement de l’adresse)
+
+13-/Adresse de recherche (recherchez l’adresse ou l’emplacement pour Google Map et enregistrez-la dans la base de données.
+
+14-/Backend (backend pour afficher les informations de l’utilisateur et les détails de la commande)
+
+15-/Création de nouveaux articles (backend, vous pouvez créer de nouveaux aliments)
+
+16-/Paiement PayPal (synchronisation du paiement PayPal avec la base de données)
+
+Fonctionnalites majeures
+1-/ Show products based on category
+2-/ Shopping cart
+3-/ Place your order
+4-/ Track your order
+5-/ User profile
+6-/ Sign in & Sign Up
+7-/ User address location from Google Map
+8-/ Zone based order
+9-/ User Authentification
+10-/ Firebase notification
+11-/Payment (Paypal)
+12-/ Createnew products on the bacckend
+13-/ See order details
+14-/ Update order status 
